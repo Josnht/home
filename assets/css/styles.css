@@ -236,6 +236,7 @@
             display: flex;
             flex-direction: column;
             justify-self: center;
+            margin-left: 25px;
         }
         
         .home__social-icon {
